@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		28242573270E4DFF007F24D4 /* FavoriteFood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FavoriteFood.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		28242573270E4DFF007F24D4 /* Eat Yummy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Eat Yummy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		28242576270E4DFF007F24D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28242578270E4DFF007F24D4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		2824257A270E4DFF007F24D4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		2824256A270E4DFF007F24D4 = {
 			isa = PBXGroup;
 			children = (
-				28242575270E4DFF007F24D4 /* FavoriteFood */,
+				28242575270E4DFF007F24D4 /* Eat Yummy */,
 				28242574270E4DFF007F24D4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		28242574270E4DFF007F24D4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				28242573270E4DFF007F24D4 /* FavoriteFood.app */,
+				28242573270E4DFF007F24D4 /* Eat Yummy.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		28242575270E4DFF007F24D4 /* FavoriteFood */ = {
+		28242575270E4DFF007F24D4 /* Eat Yummy */ = {
 			isa = PBXGroup;
 			children = (
 				28242576270E4DFF007F24D4 /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				28242581270E4E02007F24D4 /* LaunchScreen.storyboard */,
 				28242584270E4E02007F24D4 /* Info.plist */,
 			);
-			path = FavoriteFood;
+			path = "Eat Yummy";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		28242572270E4DFF007F24D4 /* FavoriteFood */ = {
+		28242572270E4DFF007F24D4 /* Eat Yummy */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 28242587270E4E02007F24D4 /* Build configuration list for PBXNativeTarget "FavoriteFood" */;
+			buildConfigurationList = 28242587270E4E02007F24D4 /* Build configuration list for PBXNativeTarget "Eat Yummy" */;
 			buildPhases = (
 				2824256F270E4DFF007F24D4 /* Sources */,
 				28242570270E4DFF007F24D4 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = FavoriteFood;
+			name = "Eat Yummy";
 			productName = FavoriteFood;
-			productReference = 28242573270E4DFF007F24D4 /* FavoriteFood.app */;
+			productReference = 28242573270E4DFF007F24D4 /* Eat Yummy.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2824256E270E4DFF007F24D4 /* Build configuration list for PBXProject "FavoriteFood" */;
+			buildConfigurationList = 2824256E270E4DFF007F24D4 /* Build configuration list for PBXProject "Eat Yummy" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				28242572270E4DFF007F24D4 /* FavoriteFood */,
+				28242572270E4DFF007F24D4 /* Eat Yummy */,
 			);
 		};
 /* End PBXProject section */
@@ -288,12 +288,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = VCN327V2K9;
-				INFOPLIST_FILE = FavoriteFood/Info.plist;
+				INFOPLIST_FILE = "Eat Yummy/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.osvaldo.FavoriteFood;
+				PRODUCT_BUNDLE_IDENTIFIER = com.osvaldo.EatYummy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -307,12 +307,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = VCN327V2K9;
-				INFOPLIST_FILE = FavoriteFood/Info.plist;
+				INFOPLIST_FILE = "Eat Yummy/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.osvaldo.FavoriteFood;
+				PRODUCT_BUNDLE_IDENTIFIER = com.osvaldo.EatYummy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -322,7 +322,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2824256E270E4DFF007F24D4 /* Build configuration list for PBXProject "FavoriteFood" */ = {
+		2824256E270E4DFF007F24D4 /* Build configuration list for PBXProject "Eat Yummy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				28242585270E4E02007F24D4 /* Debug */,
@@ -331,7 +331,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		28242587270E4E02007F24D4 /* Build configuration list for PBXNativeTarget "FavoriteFood" */ = {
+		28242587270E4E02007F24D4 /* Build configuration list for PBXNativeTarget "Eat Yummy" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				28242588270E4E02007F24D4 /* Debug */,
